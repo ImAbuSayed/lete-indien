@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - L'été Indien
+
+This log tracks the cryptographic history and versioning for the song **L'été Indien** (lete-indien).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-24T19:30:26.444089 | `v1` | `c86dc7fe78e30286c056b08755a082c6fef4c831bb2136a1f8d6b2aa0f07dcaa` | `2c4c085bda2ff2d1a32c6fa18f8f22468e32ed258cf13a6acf98b5219cd12fa2` | `2026-06-24_lete-indien-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

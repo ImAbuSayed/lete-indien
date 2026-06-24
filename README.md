@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lete-indien/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: L'été Indien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lete-indien/) |
+| **Get License** | [Commercial Licensing for L'été Indien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lete-indien/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c86dc7fe78e30286c056b08755a082c6fef4c831bb2136a1f8d6b2aa0f07dcaa` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
