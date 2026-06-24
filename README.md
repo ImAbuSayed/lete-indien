@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/lete-indien/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for L'été Indien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lete-indien/) |
+| **Get License** | [License this song: L'été Indien](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/lete-indien/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Ride avec moi dans la nuit, la ville brille sous nos roues
+> Sous les néons violets, baby, y a que toi qui me rends fou
+> C'est la French Touch dans le club, la tension monte d'un cran
+> Laisse ton parfum m'enivrer, on s'évade en plein tourment
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
